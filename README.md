@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajaykrishna+VK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building+end-to-end+AI+systems+with+Python%2C+TensorFlow+%26+FastAPI&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ajaykrishna+VK&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI%2FML+Engineer+%7C+FastAPI+%2B+React+Developer&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+Computer+Vision+%26+NLP;Building+Full-Stack+ML+Apps+with+FastAPI+%2B+React;IEEE+Published+Researcher+(2+Papers);Open+to+AI%2FML+%26+Full+Stack+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Computer+Vision+%26+NLP;FastAPI+%2B+React+Developer;Open+to+AI%2FML+%26+Full+Stack+Roles" alt="Typing SVG" />
 
 <a href="https://linkedin.com/in/ajaykrixna" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -108,7 +108,7 @@ print(me.motto())
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ajaykrixna&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com/?user=ajaykrixna&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 <div align="center">
